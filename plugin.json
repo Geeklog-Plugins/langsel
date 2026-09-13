@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "id": "langsel",
+  "name": "Language Selection Block",
+  "icon": "admin/images/langsel.png"
+}
