@@ -2,5 +2,8 @@
   "schema": 1,
   "id": "langsel",
   "name": "Language Selection Block",
-  "icon": "admin/images/langsel.png"
+  "icon": "admin/images/langsel.png",
+  "requires": {
+    "geeklog": "2.1.2"
+  }
 }
